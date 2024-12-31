@@ -258,7 +258,7 @@ JWT_REFRESH_TOKEN_EXPIRES_IN = 90d
 # **Submission Details**
 
 - **Live Deployment Link**: [Blogify - Live](https://blogify-snowy-alpha.vercel.app/)
-- **GitHub Repository**: [Blogify GitHub Repository]()
+- **GitHub Repository**: [Blogify GitHub Repository](https://github.com/MozzammelRidoy/Blogify_Blog_WebSite_Backend-TypeScript_Mongoose)
 - **Admin Credentials**:
   - **Email**: admin123@mail.com
   - **Password**: admin123
